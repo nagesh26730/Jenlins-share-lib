@@ -1,0 +1,3 @@
+def call(add){
+    echo " addition of ${x} ,${y} is ${x+y}"
+}
